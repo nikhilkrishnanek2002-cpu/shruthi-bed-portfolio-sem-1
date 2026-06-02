@@ -2,42 +2,48 @@
   "subjects": [
     {
       "code": "BED101",
-      "preliminary_exam": "",
-      "mcq": "",
+      "preliminary_exam": "assets/101-Pre_Exm.pdf",
+      "preliminary_exam_b": "",
+      "mcq": "assets/101_MCQ.pdf",
       "practical": "",
       "practical_b": ""
     },
     {
       "code": "BED102",
-      "preliminary_exam": "",
-      "mcq": "",
+      "preliminary_exam": "assets/102_Pre_Exm.pdf",
+      "preliminary_exam_b": "",
+      "mcq": "assets/102_MCQ.pdf",
       "practical": "",
       "practical_b": ""
     },
     {
       "code": "BED103",
-      "preliminary_exam": "",
+      "preliminary_exam": "assets/103_eng.pdf",
+      "preliminary_exam_b": "assets/103_maths.pdf",
       "mcq": "",
       "practical": "",
       "practical_b": ""
     },
     {
       "code": "BED104",
-      "preliminary_exam": "",
+      "preliminary_exam": "assets/104_eng.pdf",
+      "preliminary_exam_b": "assets/104_maths.pdf",
       "mcq": "",
       "practical": "",
       "practical_b": ""
     },
     {
       "code": "BED105",
-      "preliminary_exam": "",
+      "preliminary_exam": "assets/105_A_B.pdf",
+      "preliminary_exam_b": "",
       "mcq": "",
       "practical": "",
       "practical_b": ""
     },
     {
       "code": "BED106",
-      "preliminary_exam": "",
+      "preliminary_exam": "assets/106_B.jpeg",
+      "preliminary_exam_b": "",
       "mcq": "",
       "practical": "",
       "practical_b": ""
@@ -45,6 +51,7 @@
     {
       "code": "BED107",
       "preliminary_exam": "",
+      "preliminary_exam_b": "",
       "mcq": "",
       "practical": "",
       "practical_b": ""
@@ -52,6 +59,7 @@
     {
       "code": "BED108",
       "preliminary_exam": "",
+      "preliminary_exam_b": "",
       "mcq": "",
       "practical": "",
       "practical_b": ""

@@ -19,6 +19,7 @@ collections:
             fields:
               - {label: "Subject Code", name: "code", widget: "string"}
               - {label: "Preliminary Exam PDF", name: "preliminary_exam", widget: "file", required: false}
+              - {label: "Preliminary Exam PDF (Part B/Method 2)", name: "preliminary_exam_b", widget: "file", required: false}
               - {label: "MCQ PDF", name: "mcq", widget: "file", required: false}
               - {label: "Practical PDF", name: "practical", widget: "file", required: false}
               - {label: "Practical PDF (Part B/Second part)", name: "practical_b", widget: "file", required: false}

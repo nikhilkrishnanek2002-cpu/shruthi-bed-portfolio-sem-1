@@ -29,6 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
           };
 
           updateLink('link-pre-exm', subject.preliminary_exam);
+          updateLink('link-pre-exm-b', subject.preliminary_exam_b);
           updateLink('link-mcq', subject.mcq);
           updateLink('link-practical', subject.practical);
           updateLink('link-practical-b', subject.practical_b);
