@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/pdfs"
+public_folder: "assets/pdfs"
+
+collections:
+  - name: "subjects_data"
+    label: "Subjects Data"
+    files:
+      - file: "data/subjects.json"
+        name: "subjects"
+        label: "Subject PDFs Configuration"
+        fields:
+          - name: "subjects"
+            label: "Subjects List"
+            widget: "list"
+            fields:
+              - {label: "Subject Code", name: "code", widget: "string"}
+              - {label: "Preliminary Exam PDF", name: "preliminary_exam", widget: "file", required: false}
+              - {label: "MCQ PDF", name: "mcq", widget: "file", required: false}
+              - {label: "Practical PDF", name: "practical", widget: "file", required: false}
+              - {label: "Practical PDF (Part B/Second part)", name: "practical_b", widget: "file", required: false}
